@@ -1,4 +1,4 @@
-# **[Master Blockchain, Smart Contract y Criptoeconomía](https://masterethereum.com/)** - **[Universidad de Alcalá de Henares](https://uah.es/es/)**
+# **Prueba de Recuperación**
 
 _______________________________________
 
@@ -48,3 +48,7 @@ _______________________________________
 | Maximiliano Zapata | https://github.com/maxzapata/ |
 | Mauro Perna        | https://github.com/MauroPerna |
 | Daniel Molina      | https://github.com/dmolinac   |
+
+# **[Master Blockchain, Smart Contract y Criptoeconomía](https://masterethereum.com/)** - **[Universidad de Alcalá de Henares](https://uah.es/es/)**
+<img src="mbscuah.JPG" width="693" height="310">
+
