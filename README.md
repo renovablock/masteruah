@@ -1,43 +1,42 @@
-# masteruah
-Prueba de recupración Information Technology
-Este es un texto readme.txt 
-$ git clone https://github.com/renovablock/masteruah.git
+# **[Master Blockchain, Smart Contract y Criptoeconomía](https://masterethereum.com/)** - **[Universidad de Alcalá de Henares](https://uah.es/es/)**
 
-PROGRAMA
+_______________________________________
 
-A. BLOQUE 1: “MÁQUINAS VIRTUALES Y LINUX”
+## PROGRAMA INFORMATION TECHNOLOGY
+
+### A. BLOQUE 1: “MÁQUINAS VIRTUALES Y LINUX” 
 - Instalación de una máquina virtual con Ubuntu Linux mediante Virtual Box.
 - Uso de los principales comandos sobre la consola de Linux.
 
-B. BLOQUE 2: “GIT, GITHUB Y MARKDOWN”
+### B. BLOQUE 2: “GIT, GITHUB Y MARKDOWN”
 - Descarga, instalación, configuración y uso de Git.
 - Creación, configuración y uso de una cuenta en GitHub.
 - Uso de ficheros Markdown con toda su sintaxis.
 
-C. BLOQUE 3: “EL MODELO RELACIONAL Y SQL”
+### C. BLOQUE 3: “EL MODELO RELACIONAL Y SQL”
 - Adquisición de los conceptos básicos del modelo relacional.
 - Uso de los principales comandos del lenguaje SQL.
 
-D. BLOQUE 4: “REDES”
+### D. BLOQUE 4: “REDES”
 - Adquisición de los conceptos básicos del modelo OSI y del modelo TCP/IP, entre ellos conocer la diferencia entre UDP y TCP.
 - Adquisición de otros conceptos relativos a redes.
 
-E. BLOQUE 5: “LA WEB”
+### E. BLOQUE 5: “LA WEB”
 - Uso de formatos de intercambio de datos para la web: XML y JSON.
 - Uso de tecnologías relacionadas con la creación de un sitio web: HTML y CSS.
 
-F. BLOQUE 6: “JAVASCRIPT”
+### F. BLOQUE 6: “JAVASCRIPT”
 - Adquisición de los conceptos básicos de JavaScript.
 - Uso de JavaScript para hacer peticiones REST.
 
-G. BLOQUE 7: “COMPUTACIÓN”
+### G. BLOQUE 7: “COMPUTACIÓN”
 - Adquisición del concepto de complejidad computacional, conociendo las distintas clases de complejidad que existen y comprendiendo sus diferencias.
 - Adquisición del concepto de estructura de datos, conociendo las distintas estructuras de datos existentes y comprendiendo sus diferencias.
 - Adquisición de los conceptos básicos de la teoría de grafos, conociendo los distintos tipos de grafos existentes, y las distintas aplicaciones prácticas del estudio de dicha rama de la ciencia.
 
 
 
-| Nombre             | GITHUB                        |
+| **Nombre**             | **GITHUB**                        |
 |--------------------|-------------------------------|
 | Andrés Fondevila   | https://github.com/andresuah  |
 | Adolfo Onrubia     | https://github.com/Binomi0    |
